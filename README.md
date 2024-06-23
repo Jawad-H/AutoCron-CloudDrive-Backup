@@ -9,7 +9,7 @@ AutoCron CloudDrive Backup is a robust, automated backup solution that securely 
 - Secure authentication with Google Drive API
 - Configurable backup schedules using node-schedule
 - Express server with health check endpoint for easy monitoring
-- Environment variable configuration for enhanced security and flexibility
+- Highly customizable to suit different backup requirements
 
 ## Technology Stack:
 
